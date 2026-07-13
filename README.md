@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hi there k.prasanna 👋
 
 <!--
-**itsprasanna-07/itsprasanna-07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+🎓 B.Tech Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Passionate about Python, AI/ML, and Web Development
+
+🚀 Always learning new technologies and building projects
+
+- 🔭 I’m currently working on AI Medical Prescription Verification Project
+- 🌱 I’m currently learning Python, Machine Learning, and Git & GitHub
+- 👯 I’m looking to collaborate on Python and AI projects
+- 🤔 I’m looking for help with Deep Learning and Open Source
+- 💬 Ask me about Python, Git, and AI
+- 📫 How to reach me: kprasannayadav400@gmail.com
+- ⚡ Fun fact: I enjoy solving coding challenges and participating in hackathons.
